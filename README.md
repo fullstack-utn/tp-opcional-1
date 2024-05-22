@@ -15,17 +15,17 @@ Incluye diferentes tipos de campos de entrada utilizando las etiquetas <input>, 
 ### Contenido Multimedia:
 
 Incorpora elementos multimedia en tu página utilizando la etiqueta <video>. Asegúrate de utilizar los atributos adecuados, como src y controls, para que los usuarios puedan reproducir y controlar el video.
-Agrega imágenes atractivas a tu página utilizando la etiqueta <img>. Utiliza el atributo src para especificar la ubicación de la imagen y el atributo alt para proporcionar un texto alternativo descriptivo.
+Agrega imágenes atractivas a tu página utilizando la etiqueta img. Utiliza el atributo src para especificar la ubicación de la imagen y el atributo alt para proporcionar un texto alternativo descriptivo.
 
 ### Listas y Enlaces:
 
-Utiliza las etiquetas <ul>, <ol> y <li> para crear listas ordenadas y no ordenadas que ayuden a organizar y presentar el contenido de tu página de manera efectiva.
-Crea enlaces (<a>) a otras páginas web relevantes o a secciones específicas de tu propia página para mejorar la navegación y la experiencia del usuario.
+Utiliza las etiquetas ul, ol y li para crear listas ordenadas y no ordenadas que ayuden a organizar y presentar el contenido de tu página de manera efectiva.
+Crea enlaces (a) a otras páginas web relevantes o a secciones específicas de tu propia página para mejorar la navegación y la experiencia del usuario.
 
 ### Texto y Encabezados:
 
-Utiliza las etiquetas de texto como <p>, <h1>, <h2>, etc., para estructurar y formatear el contenido de tu página de manera clara y legible.
-Asegúrate de utilizar encabezados (<h1>, <h2>, etc.) de manera jerárquica para indicar la importancia y la estructura del contenido.
+Utiliza las etiquetas de texto como p, h1, h2, etc., para estructurar y formatear el contenido de tu página de manera clara y legible.
+Asegúrate de utilizar encabezados (h1, h2, etc.) de manera jerárquica para indicar la importancia y la estructura del contenido.
 
 ### Entrega:
 
