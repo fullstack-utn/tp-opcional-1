@@ -4,12 +4,9 @@
 
 Objetivo: El objetivo de este trabajo práctico es que  apliquen los conocimientos adquiridos sobre HTML para crear una página bien estructurada.
 
-### Instrucciones:
+### Estructura del Documento HTML:
 
-Estructura del Documento HTML:
-
-Utilizando las etiquetas crea la estructura básica de tu documento HTML.
-Emplea las etiquetas semánticas como <header>, <footer>, <section> y <article> para organizar el contenido de tu página de manera lógica y clara.
+Utilizando las etiquetas crea la estructura básica de tu documento HTML. Emplea las etiquetas semánticas como header, footer, section y article para organizar el contenido de tu página de manera lógica y clara.
 Formularios Interactivos:
 
 Diseña un formulario utilizando la etiqueta <form> que recolecte información relevante de los usuarios, como nombres, correos electrónicos y comentarios.
