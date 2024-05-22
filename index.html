@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TP Opcional</title>
+  </head>
+  <body>
+    <header>
+      <h1>Kojima</h1>
+      <nav>
+        <ul>
+          <li><a href="">Inicio</a></li>
+          <li><a href="">Sobre Nosotros</a></li>
+          <li><a href="">Contacto</a></li>
+        </ul>
+      </nav>
+      <img
+        style="width: 100%; object-fit: cover"
+        src="./media/kojima.jpg"
+        height="400"
+        sizes="quality"
+        alt="Imagen ilustrativa de Kojima, Japon"
+      />
+    </header>
+    <main>
+      <article>
+        <h2>Viaja a conocernos!</h2>
+        <section>
+          <video src="./media/video.mp4" autoplay muted width="650">
+            Tu navegador no admite el elemento <code>video</code>.
+          </video>
+        </section>
+        <section>
+          <!-- Formulario -->
+          <form action="" method="post">
+            <h3>Completa el formulario</h3>
+            <p>y participa por un viaje a nuestras instalaciones</p>
+            <label for="fullname">Nombre Completo</label>
+            <input
+              type="text"
+              class="fullname"
+              id="fullname"
+              placeholder="Ingrese su nombre completo..."
+            />
+            <label for="email">Correo Electronico</label>
+            <input
+              type="email"
+              class="email"
+              id="email"
+              placeholder="Ingrese su email..."
+            />
+            <label for="gender">Género</label>
+            <div>
+              <label for="hombre">Hombre</label>
+              <input
+                type="radio"
+                class="gender"
+                name="gender"
+                id="hombre"
+                value="Hombre"
+              />
+              <label for="mujer">Mujer</label>
+              <input
+                type="radio"
+                class="gender"
+                name="gender"
+                id="mujer"
+                value="Mujer"
+              />
+              <label for="otro">Otro</label>
+              <input
+                type="radio"
+                class="gender"
+                name="gender"
+                id="otro"
+                value="Otro"
+              />
+            </div>
+            <label for="comentario">Comentarios</label>
+            <textarea
+              name="comentario"
+              id="comentario"
+              rows="10"
+              cols="30"
+            ></textarea>
+            <button type="submit">Enviar</button>
+          </form>
+        </section>
+      </article>
+    </main>
+    <footer></footer>
+  </body>
+</html>
